@@ -8,7 +8,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         double R = sc.nextDouble();
-        double pi = 3.14159;
+        double pi = 3.1416;
         double area;
 
         area = pi * Math.pow(R,2);
